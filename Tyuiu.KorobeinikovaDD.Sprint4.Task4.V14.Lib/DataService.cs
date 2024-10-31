@@ -19,6 +19,6 @@ namespace Tyuiu.KorobeinikovaDD.Sprint4.Task4.V14.Lib
                 }
             }
             return matrix;
-        }
+        } 
     }
 }
