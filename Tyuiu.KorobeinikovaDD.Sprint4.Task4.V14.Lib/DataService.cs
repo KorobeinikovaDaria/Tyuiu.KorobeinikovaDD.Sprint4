@@ -15,7 +15,6 @@ namespace Tyuiu.KorobeinikovaDD.Sprint4.Task4.V14.Lib
                     if (matrix[i, j] % 2 != 0) 
                     { 
                     matrix[i, j] = 0;
-                    
                     }
                 }
             }
