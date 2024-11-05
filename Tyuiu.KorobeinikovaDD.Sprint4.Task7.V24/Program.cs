@@ -4,14 +4,14 @@ DataService ds = new DataService();
 
 Console.Title = "Спринт #4 | Выполнила: Коробейникова Д.Д. | ПКТб-24-1";
 Console.WriteLine("*******************************************************************************");
-Console.WriteLine("* Тема:                                  *");
+Console.WriteLine("* Тема: Добавление к решению итоговых проектов                                *");
 Console.WriteLine("* Задание #7                                                                  *");
 Console.WriteLine("* Вариант #24                                                                 *");
 Console.WriteLine("* Выполнила: Коробейникова Дарья Денисовна | ПКТб-24-1                        *");
 Console.WriteLine("*******************************************************************************");
 Console.WriteLine("* УСЛОВИЕ:                                                                    *");
-Console.WriteLine("*                           *");
-Console.WriteLine("*         *");
+Console.WriteLine("* Преобразовать строку одноразрядных цифр в матрицу 5 на 3 и подсчитать       *");
+Console.WriteLine("* произведение четных чисел                                                   *");
 Console.WriteLine("*                                                                             *");
 Console.WriteLine("*******************************************************************************");
 Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                            *");
